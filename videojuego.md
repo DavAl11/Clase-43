@@ -1,5 +1,5 @@
 # objetivo
-
+dfghjk
 # reglas
 
 # equilibrio
