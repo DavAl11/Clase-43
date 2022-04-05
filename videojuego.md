@@ -1,13 +1,13 @@
-# objetivo
-dfghjk
-# reglas
+# Objetivo
+Historia:
+# Reglas
 
-# equilibrio
+# Equilibrio
 
-# retroalimentación
+# Retroalimentación
 
-# adaptabilidad
+# Adaptabilidad
 
-# pc
+# Pc
 
-# npc
+# Npc
