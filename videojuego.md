@@ -1,6 +1,6 @@
 # Objetivo
-Historia: Tienes que defender Estados Unidos de los bombarderos nucleares de los rojos, eres la ultima esperanza de un mundo Occidental libre
-Objetivo: Defender a Estados Unidos de los bombarderos con un caza interceptor, sobrevivir el mayor tiempo posible
+* Historia: Tienes que defender Estados Unidos de los bombarderos nucleares de los rojos, eres la ultima esperanza de un mundo Occidental libre
+* Objetivo: Defender a Estados Unidos de los bombarderos con un caza interceptor, sobrevivir el mayor tiempo posible
 
 # Reglas
 * Si le disparas a un edificio este se destruye
@@ -17,19 +17,19 @@ Objetivo: Defender a Estados Unidos de los bombarderos con un caza interceptor, 
 # Equilibrio
 
 # Retroalimentación
-Puntos
-Munición
-Combustible
-Game Over
+* Puntos
+* Munición
+* Combustible
+* Game Over
 
 # Adaptabilidad
-El juego se vuelve mas rapido y mas dificil entre mas tiempo pase
+* El juego se vuelve mas rapido y mas dificil entre mas tiempo pase
 
 # Pc
-Caza interceptor
+* Caza interceptor
 
 # Npc
-Bombardero
-Bombas
-Avion de combustible
-Edificios
+* Bombardero
+* Bombas
+* Avion de combustible
+* Edificios
